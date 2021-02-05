@@ -1,0 +1,13 @@
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.exe
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.deps.json
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.dll
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.pdb
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.dll
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.pdb
+C:\Users\tigge\source\repos\c-sharp-OOP\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.genruntimeconfig.cache
