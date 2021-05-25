@@ -10,13 +10,13 @@ namespace Exercises
         static void Main(string[] args)
         {
             //calls the Start() method from Exercises class from 1Classes folder
-            //_1Classes.Exercise.Start();
+            _1Classes.Exercise.Start();
 
             //calls from 2Ineritance folder the exercise 
             //_2Inheritance.Exercise.Start();
         
             //calls from 2BInheritance folder
-            _2BInheritance.Exercise.Start();
+            //_2BInheritance.Exercise.Start();
         
         }
     }
